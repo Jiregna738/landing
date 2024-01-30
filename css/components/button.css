@@ -1,0 +1,7 @@
+.btn-red {
+  color: white;
+  background-color: red;
+  padding: 20px 40px;
+  border-radius: 45px;
+  display: inline-block;
+}
